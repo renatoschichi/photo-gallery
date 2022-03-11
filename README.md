@@ -1,3 +1,5 @@
+A photo gallery project, where you can upload a photo of yourself in jpg or png format and also delete it. The project was developed with React, typescript, styled-component, firebase and uuid.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
